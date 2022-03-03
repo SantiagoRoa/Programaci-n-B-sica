@@ -1,4 +1,4 @@
-# Ejercicios Curso de Modelos de Programación Básica
+# Ejercicios Curso de Programación Básica
 ### Universidad Distrital Francisco José de Caldas
 
 ### Descargo de responsabilidad
